@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Project-Memory-Card/static/css/main.6f878ea9.css",
+    "main.js": "/Project-Memory-Card/static/js/main.36621bd4.js",
+    "static/media/luffy.png": "/Project-Memory-Card/static/media/luffy.8f0f745bd4fdbdb1e3e5.png",
+    "static/media/sanji.png": "/Project-Memory-Card/static/media/sanji.464fac3632882cd52487.png",
+    "static/media/zoro.png": "/Project-Memory-Card/static/media/zoro.112a90244be5107132f8.png",
+    "static/media/jinbe.png": "/Project-Memory-Card/static/media/jinbe.7e685f4f4d90fcd88c6e.png",
+    "static/media/robin.png": "/Project-Memory-Card/static/media/robin.2345a7881bbf3f7389a1.png",
+    "static/media/usopp.png": "/Project-Memory-Card/static/media/usopp.6a1adc33f4de8a742c52.png",
+    "static/media/franky.png": "/Project-Memory-Card/static/media/franky.379376682dd840dab51e.png",
+    "static/media/nami.png": "/Project-Memory-Card/static/media/nami.00443559eb406f795db4.png",
+    "static/media/brook.png": "/Project-Memory-Card/static/media/brook.c3a8afb860528779f149.png",
+    "static/media/chopper.png": "/Project-Memory-Card/static/media/chopper.56651cb47aefb4327573.png",
+    "index.html": "/Project-Memory-Card/index.html",
+    "main.6f878ea9.css.map": "/Project-Memory-Card/static/css/main.6f878ea9.css.map",
+    "main.36621bd4.js.map": "/Project-Memory-Card/static/js/main.36621bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f878ea9.css",
+    "static/js/main.36621bd4.js"
+  ]
+}
