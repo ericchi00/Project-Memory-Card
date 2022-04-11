@@ -6,3 +6,4 @@ Create a memory card game to practice lifecycle methods in React based off of th
 
 HTML, CSS, Javascript, React
 
+[Live Demo](https://ericchi00.github.io/Project-Memory-Card/)
