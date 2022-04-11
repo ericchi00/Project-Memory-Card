@@ -132,7 +132,6 @@ const Game = (props) => {
 								changeClick={() => changeClick(i)}
 								img={images[i].img}
 								description={images[i].description}
-								click={images[i].click}
 							/>
 						);
 					})}
