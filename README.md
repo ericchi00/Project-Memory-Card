@@ -4,5 +4,5 @@ Create a memory card game to practice lifecycle methods in React based off of th
 
 ## Technologies
 
-HTML, CSS, Javascript, React, Jest
+HTML, CSS, Javascript, React
 
